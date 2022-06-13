@@ -1,0 +1,84 @@
+[33mcommit 72e5e0ca231e53bc7fb6a8efc557c147ee2422ae[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: taeate <yes3144@nate.com>
+Date:   Mon Jun 13 18:45:59 2022 +0900
+
+    restart
+
+[33mcommit 3814f80a66fbe4e4378de837f35ff1532b1459d3[m
+Merge: b2930a9 8c2d304
+Author: taeate <93954858+taeate@users.noreply.github.com>
+Date:   Mon Jun 13 18:43:57 2022 +0900
+
+    Merge pull request #6 from taeate/develop
+    
+    Merge pull request #5 from taeate/master
+
+[33mcommit 8c2d30417ce7ead1cced2e58b67b81b5cd01b79a[m
+Merge: bbebff6 b2930a9
+Author: taeate <93954858+taeate@users.noreply.github.com>
+Date:   Mon Jun 13 18:43:38 2022 +0900
+
+    Merge pull request #5 from taeate/master
+    
+    ss
+
+[33mcommit b2930a99f0d1e0349b89ba9da88da365f51c8f55[m
+Merge: 817ca5b 8022e9f
+Author: taeate <93954858+taeate@users.noreply.github.com>
+Date:   Mon Jun 13 18:40:50 2022 +0900
+
+    Merge pull request #4 from taeate/moduleE
+    
+    Module e
+
+[33mcommit 817ca5b8a187ea230b5c22b1c04c68d0429b749f[m
+Merge: 24e16e5 bbebff6
+Author: taeate <93954858+taeate@users.noreply.github.com>
+Date:   Mon Jun 13 18:39:41 2022 +0900
+
+    Merge pull request #3 from taeate/develop
+    
+    Merge pull request #2 from taeate/master
+
+[33mcommit 8022e9fcee7e39f968db760b08ede37e4fa6dcdf[m
+Merge: 3b1222e 24e16e5
+Author: taeate <yes3144@nate.com>
+Date:   Mon Jun 13 18:38:41 2022 +0900
+
+    moduleE 병합
+
+[33mcommit bbebff63349a32c1d05e0f0bec2bb9c8b8ca53fe[m
+Merge: cbc954b 24e16e5
+Author: taeate <93954858+taeate@users.noreply.github.com>
+Date:   Mon Jun 13 18:37:07 2022 +0900
+
+    Merge pull request #2 from taeate/master
+    
+    Merge pull request #1 from taeate/develop
+
+[33mcommit 24e16e524fdfd47324686a00dcefaefcef29e13e[m
+Merge: 80fab47 cbc954b
+Author: taeate <93954858+taeate@users.noreply.github.com>
+Date:   Mon Jun 13 18:34:38 2022 +0900
+
+    Merge pull request #1 from taeate/develop
+    
+    인사말 2
+
+[33mcommit cbc954b87dd8baeb330218e191ca856e478f4aa7[m
+Author: taeate <yes3144@nate.com>
+Date:   Mon Jun 13 18:33:19 2022 +0900
+
+    인사말 2
+
+[33mcommit 3b1222e986839ec3bf352c7561a007ed6f207e6c[m
+Author: taeate <yes3144@nate.com>
+Date:   Mon Jun 13 18:29:24 2022 +0900
+
+    moduleE 작업중
+
+[33mcommit 80fab4762c9fb00624ed458401a5eb34af983ccf[m
+Author: taeate <yes3144@nate.com>
+Date:   Mon Jun 13 18:25:12 2022 +0900
+
+    첫인사
